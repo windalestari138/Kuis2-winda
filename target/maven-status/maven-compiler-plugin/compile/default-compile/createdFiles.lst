@@ -1,0 +1,9 @@
+com\mycompany\kuis1090\entity\Mobil_1090.class
+com\mycompany\kuis1090\kuis1090Application.class
+com\mycompany\kuis1090\repo\Mobil_1090Repo.class
+com\mycompany\kuis1090\service\Aksesoris_1090Service.class
+com\mycompany\kuis1090\repo\Aksesoris_1090Repo.class
+com\mycompany\kuis1090\controller\Mobil_1090Controller.class
+com\mycompany\kuis1090\service\Mobil_1090Service.class
+com\mycompany\kuis1090\controller\Aksesoris_1090Controller.class
+com\mycompany\kuis1090\entity\Aksesoris_1090.class
